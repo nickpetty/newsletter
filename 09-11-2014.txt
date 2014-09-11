@@ -1,0 +1,139 @@
+IHackEverything Newsletter - 09-11-2014
+=======================================
+The following links are automatically pulled from their respected websites 
+each day and delivered straight to you for your convenience!  View the source at [Github!](http://github.com/kf5jak/newsletter)  Enjoy!
+(Be sure to allow images from this sender if you haven't already!)
+_______________________________________
+
+
+Random XKCD Comic
+-----------------
+
+[Just Alerting You](http://xkcd.com/15)
+
+![Just Alerting You](http://imgs.xkcd.com/comics/just_alerting_you.jpg)
+
+[Read More...](http://xkcd.com)
+
+CNN.com - Top Stories
+----------------------------------
++ [ISIS threat to U.S. mostly hype](http://rss.cnn.com/~r/rss/cnn_topstories/~3/_R5sM82bck4/index.html)
++ [Cruz: How U.S. can stop ISIS](http://rss.cnn.com/~r/rss/cnn_topstories/~3/yroRHDmvWoA/index.html)
+
+[Read More...](http://cnn.com)
+
+WIRED
+----------------------------------
++ [Overstock.com Becomes First Major Retailer to Accept Bitcoin Worldwide](http://feeds.wired.com/c/35185/f/661370/s/3e5de9cf/sc/21/l/0L0Swired0N0C20A140C0A90Coverstock0Ecom0Ebecomes0Efirst0Emajor0Eretailer0Eaccept0Ebitcoin0Eworldwide0C/story01.htm)
++ [Ubers Revenue Is 12 Times The Size of Lyfts, New Study Says](http://feeds.wired.com/c/35185/f/661370/s/3e5d6adf/sc/2/l/0L0Swired0N0C20A140C0A90Cubers0Erevenue0E120Etimes0Ebigger0Elyfts0Enew0Estudy0Esays0C/story01.htm)
++ [How Online Black Markets Have Evolved Since Silk Roads Downfall](http://feeds.wired.com/c/35185/f/661370/s/3e5c0d0b/sc/8/l/0L0Swired0N0C20A140C0A90Cinternet0Eblack0Emarket0C/story01.htm)
++ [The Many Natural Wonders of the American Backyard, Captured by iPhone](http://feeds.wired.com/c/35185/f/661370/s/3e5c0d0a/sc/10/l/0L0Swired0N0C20A140C0A90Cjoshua0Ewhite0Esurvey0Eof0Ethe0Eamerican0Eyard0C/story01.htm)
++ [Velocity 2X: Easy to Tiptoe Through, Insanely Hard to Master](http://feeds.wired.com/c/35185/f/661370/s/3e5c0d09/sc/36/l/0L0Swired0N0C20A140C0A90Cvelocity0E2x0Ereview0C/story01.htm)
+
+[Read More...](http://wired.com)
+
+The Art of Manliness
+----------------------------------
++ [10 Questions to Ask in a Job Interview](http://www.artofmanliness.com/2014/09/10/10-questions-to-ask-in-a-job-interview/)
++ [DIY Beard Oil](http://www.artofmanliness.com/2014/09/09/diy-beard-oil/)
++ [The Fists of Theodore Roosevelt](http://www.artofmanliness.com/2014/09/08/the-fists-of-theodore-roosevelt/)
++ [How to Pair Wine With Food [VIDEO]](http://www.artofmanliness.com/2014/09/06/how-to-pair-wine-with-food-video/)
++ [Art of Manliness Podcast #80: Starting Huckberry With Andy Forch & Richard Greiner](http://www.artofmanliness.com/2014/09/06/art-of-manliness-podcast-80-starting-huckberry-with-andy-forch-richard-greiner/)
+
+[Read More...](http://www.artofmanliness.com)
+
+HackerNews
+----------------------------------
+ + [A Chrome extension to measure everything](http://felixniklas.com/dimensions/)
+ + [Bzier Clock](http://jackf.net/bezier-clock/)
+ + [A Watch Guy's Thoughts on the Apple Watch After Seeing It in the Metal](http://www.hodinkee.com/blog/hodinkee-apple-watch-review)
+ + [The Netflix Tech Blog: Introducing Chaos Engineering](http://techblog.netflix.com/2014/09/introducing-chaos-engineering.html)
+ + [Steve Jobs Was a Low-Tech Parent](http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html)
+
+[Read More...](http://news.ycombinator.com)
+
+RollingStone.com: Movie Reviews
+----------------------------------
++ [Wetlands](http://www.rollingstone.com/movies/reviews/wetlands-20140904)
++ [If I Stay](http://www.rollingstone.com/movies/reviews/if-i-stay-20140904)
++ [Teenage Mutant Ninja Turtles](http://www.rollingstone.com/movies/reviews/teenage-mutant-ninja-turtles-20140904)
++ [Starred Up](http://www.rollingstone.com/movies/reviews/starred-up-20140828)
++ [Love Is Strange](http://www.rollingstone.com/movies/reviews/love-is-strange-20140821)
+
+[Read More...](http://rollingstone.com)
+
+Hackaday
+----------------------------------
++ [THP Quarterfinalist: Low-Cost Solid State Cosmic Ray Observatory](http://feedproxy.google.com/~r/hackaday/LgoM/~3/fMTeWcakClo/)
++ [Re-Using The LCD & Button Assembly From A Broken Inkjet Printer](http://feedproxy.google.com/~r/hackaday/LgoM/~3/0z9raZYz79k/)
++ [The Walking Dead Survival Box for the Zombie Apocalypse](http://feedproxy.google.com/~r/hackaday/LgoM/~3/3VYzv-aOakk/)
++ [THP Hacker Bio: Peter McCloud](http://feedproxy.google.com/~r/hackaday/LgoM/~3/gVm3I5pWqgU/)
++ [Driving WS2812B Pixels, With DMA Based SPI](http://feedproxy.google.com/~r/hackaday/LgoM/~3/WgdC_gaUrWk/)
+
+[Read More...](http://hackaday.com)
+
+IGN Video Games
+----------------------------------
++ [New Metal Gear Solid 5 The Phantom Pain Teaser](http://www.ign.com/articles/2014/09/11/new-metal-gear-solid-5-the-phantom-pain-teaser)
++ [PS Vita Exclusive Murasaki Baby Coming September](http://www.ign.com/articles/2014/09/11/ps-vita-exclusive-murasaki-baby-release-date-announced)
++ [New Super Smash Bros. Characters Confirmed in Stream](http://www.ign.com/articles/2014/09/11/new-super-smash-bros-characters-confirmed-in-stream)
++ [Listen to Paul McCartney's Destiny Theme Song](http://www.ign.com/articles/2014/09/11/listen-to-paul-mccartneys-destiny-theme-song)
++ [Activision Confirms The Voice Video Game](http://www.ign.com/articles/2014/09/11/activision-announces-the-voice-video-game)
+
+[Read More...](http://ign.com)
+
+IFLScience
+----------------------------------
++ [Pure Antimalarial Medications Synthesized From Plant Waste Products](http://www.iflscience.com/health-and-medicine/pure-antimalarial-medications-synthesized-plant-waste-products)
++ [Watch A Man Climb Into An Active Volcano](http://www.iflscience.com/environment/video-man-climbs-active-volcano)
++ [Companion Star Hidden for 21 Years in Supernova's Glow](http://www.iflscience.com/space/companion-star-hidden-21-years-supernovas-glow)
++ [Ancient River Dolphin Relative Discovered In Peru Desert](http://www.iflscience.com/plants-and-animals/ancient-river-dolphin-relative-discovered-peru-desert)
++ [Doctors Use 3D-Printed Replica Brains To Guide Life-Changing Pediatric Surgery](http://www.iflscience.com/health-and-medicine/doctors-use-3d-printed-replica-brains-guide-life-changing-pediatric-surgery)
+
+[Read More...](http://iflscience.com)
+
+Lifehacker
+----------------------------------
++ [Use Duct Tape to Wrap Cords Without Leaving Them Sticky](http://lifehacker.com/use-duct-tape-to-wrap-cords-without-leaving-them-sticky-1633415484)
++ [Spell Bee Autocorrects What You Type in Chrome](http://lifehacker.com/spell-bee-autocorrects-what-you-type-in-chrome-1632850531)
++ [Build Industrial Furniture with Wood and Pipes](http://workshop.lifehacker.com/build-industrial-furniture-with-wood-and-pipes-1633320328/+andyoooo)
++ [What's The Best Language Translation Tool?](http://lifehacker.com/whats-the-best-language-translation-tool-1633213118)
++ [Declutter Your Bathroom Counter Space with a DIY Tiered Tray](http://lifehacker.com/declutter-your-bathroom-counter-space-with-a-diy-tiered-1632849836)
+
+[Read More...](http://lifehacker.com)
+
+Infograph (Mashable)
+----------------------------------
+ + [How 12 Business Leaders Got to the C-Suite](http://mashable.com/2013/07/31/c-suite-infographic/?utm_medium=feed&utm_source=rss)
+
+XKCD 'what-if' of the week
+---------------------------
+
+<article class="entry">
+  <a href="https://what-if.xkcd.com/111/"><h1>All the Money</h1></a>
+  <p id="question">People sometimes say &quot;If I had all the money in the world ...&quot; in order to discuss what they would do if they had no financial constraints. I'm curious, though, what would happen if one person had all of the world's money?</p>
+<p id="attribute">Daniel Pino</p>
+<p>So you've somehow found a way to gather all the world's money. We won't worry about how you did it—let's just assume you invented some kind of money-summoning magic spell.</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/summon.png" title="Well, yes, I can see THAT." />
+<p>Physical currency—coins and bills—represents just a small percentage of the world's wealth. In theory, you could edit all the property records on Earth to say that you own all the land and edit all the banking records to say you own all the money. But everyone else would disagree with those records, and they would edit them back or ignore them. Money is an idea, and you can't make the entire world respect your idea.</p>
+<p>Getting all the world's <em>cash</em>, on the other hand, is much more straightforward. There's a certain amount of cash in the world—it's about $4 trillion—and you want it all.</p>
+<p>It won't necessarily <em>do</em> anything for you, since—without the cooperation of the outside world—you probably won't be able to spend it. But maybe you can swim around in it, like Scrooge McDuck in his giant room full of gold.</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/scrooge.png" title="There are no problems with the science here. Every part of this is possible." />
+<p>So you cast your magic spell and summon all the money.</p>
+<p>The pile of cash is the size of the Empire State Building, but heavier. You probably don't want to be standing under it, so let's assume you're standing over here, off to the side:</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/distance.png" title="Dinosaurs loving money is the root of all evil." />
+<p>The vast majority of the weight in the pile is coins, and the biggest single contributor is the US penny. Despite periodic efforts to <a href="http://www.retirethepenny.org/">kill off the penny</a>, the US Mint keeps producing more of them.</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/mint.png" title="It keeps appearing on the money even though we never put it in the engraving plates." />
+<p>There are probably 150 billion pennies<span class="ref"><span class="refnum">[1]</span><span class="refbody">A 1996 GAO report mentioned a US Mint estimate of the number of pennies in circulation: 132 billion. If you're excited by phrases like &quot;General Accounting Office&quot;, &quot;auditing standards&quot;, and &quot;Subcommittee on Domestic and International Monetary Policy&quot;, you can read the report <a href="http://gao.gov/assets/110/106568.pdf">here</a>.<br /><br />If you're <em>so</em> excited about penny statistics that the GAO report isn't enough for you, you're in luck: There's another way to derive this number.<br /><br />We can get an idea of the number of pennies in circulation by looking at all the change in our pockets, counting the dates, and using that to estimate a loss rate. In 1999, some statisticians recorded the dates on 1,000 pennies they had lying around, and published the data in the book <em>Workshop Statistics: Discovery with Data and Fathom</em>, <a href="http://books.google.com/books?id=wGMRja1vE0kC&amp;lpg=PA389&amp;pg=PA389#v=onepage&amp;q&amp;f=false">page 389</a>. By plotting the frequency with which they saw pennies of various ages against the frequency we'd <em>expect</em> from US Mint production numbers, we can estimate the rate at which older pennies drop out of circulation per year. Using their numbers, I come up with an estimate of about 190,000,000,000 pennies in circulation.<br /><br />We can then apply the same formula to previous dates, and come up with a number for 1996, to check against the GAO number. (I have a lot of spare time on my hands.) Surprisingly, this produces an estimate that's still about 190,000,000,000. Either number (190 billion or 132 billion) is probably a reasonable estimate, but if you're serious about your penny statistics—and if you've read this far, you must be—you should probably go with the US Mint guess. After all, they presumably know a thing or two about counting pennies.</span></span> currently in circulation, for a total weight of over 300,000 tons. In total, US coins and bills are responsible for about 30% of the pile's weight, while the European Union—which has barely been minting coins for a decade—contributes 15%.</p>
+<p>Unfortunately for you, the pile doesn't stay a pile for long,<span class="ref"><span class="refnum">[2]</span><span class="refbody">When you pour lots of loose material in a heap, it tends to form a cone. Different materials will form cones with different slopes; the steepness of the slope for a given material is called its <em>angle of repose</em>.<br /><br />I've never found the exact angle of repose for coins—or had enough of them to test it—but a forum poster with the username <strong>Master of Coin</strong> (who claims to be well-acquainted with &quot;how piles of coins 'slish' about&quot;) <a href="http://asoiaf.westeros.org/index.php/topic/78114-the-hobbit-a-long-expected-spoiler-movie-thread/?p=3985923">says</a> that it's probably no more than 5 or 10 degrees. </span></span> and what seems like a safe distance isn't so safe.</p>
+<p>In 1919, a tank of molasses in Boston collapsed. Molasses is thick, so you might think it would flow out slowly, but it didn't. The wave of molasses swept down the streets too fast to outrun, demolishing buildings and killing 21 people.</p>
+<p>Something similar happens with the pile of coins. As it collapses, the pile spreads outward, a wave of money carrying a staggering amount of momentum. The pennies, quarters, loonies, and euros scour the landscape in an expanding ring. Within seconds, the wave of coins engulfs you and you die.</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/died.png" title="Cash Ruled Everything Around Me" />
+<p>There are ways to avoid this. You could, say, build a wall around the coins to contain them. Unfortunately, then you might face a problem worse than death:</p>
+<p>Building code violations.</p>
+<p>Heavy skyscrapers need ground strong enough to support them. Places with large skyscrapers, like those in Manhattan, need bedrock sturdy enough to hold them up.<span class="ref"><span class="refnum">[3]</span><span class="refbody">For a long time, people said that this was why there was a gap in Manhattan's skyline—the bedrock wasn't strong enough to support skyscrapers in the middle. However, a 2011 paper in the <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=8429737">Journal of Economic History</a> says that this is a myth, and the bedrock had little influence on the location of skyscrapers.</span></span> A search through <a href="http://www2.iccsafe.org/states/newyorkcity/Building/PDFs/Chapter%2018_Soils%20and%20Foundations.pdf">this giant PDF of NYC building codes</a> suggests that if we went ahead with this plan, we would be in serious danger of violating section 1804 (&quot;ALLOWABLE BEARING PRESSURES&quot;).</p>
+<p>Which makes me wonder: Did Scrooge McDuck ever had to worry about this stuff?</p>
+<img class="illustration" src="https://what-if.xkcd.com/imgs/a/111/zoning.png" title="There's nothing in the basketball rulebook that says a duck can't build a giant bin of money to swim in." />
+</article>
+
+[Read More...](http://what-if.xkcd.com)
