@@ -51,6 +51,18 @@ def topX(url, limit, home):
 	section.append("\n[Read More...](" + home + ")")
 	return section
 
+def foh(url, limit, home):
+	section = []
+	feed = feedparser.parse(url)
+	section.append('FOH Online')
+	section.append('----------------------------------')
+
+	for entry in feed.entries[0:limit]:
+		section.append("+ [" + entry.title + "](" + entry.link + ")")
+
+	section.append("\n[Read More...](" + home + ")")
+	return section
+
 def hackaday():
 	section = []
 	feed = feedparser.parse('http://feeds2.feedburner.com/hackaday/LgoM')
@@ -110,7 +122,7 @@ def build():
 	letter.write( 'IHackEverything Newsletter - ' + today + '\n')
 	letter.write( '=======================================' + '\n')
 	letter.write( """The following links are automatically pulled from their respected websites 
-each day and delivered straight to you for your convenience!  View the source at [Github!](http://github.com/kf5jak/newsletter)  Enjoy!\n(Be sure to allow images from this sender if you haven't already!)\n""")
+each day and delivered straight to you for your convenience!  View the source at [Github!](http://github.com/nickpetty/newsletter)  Enjoy!\n(Be sure to allow images from this sender if you haven't already!)\n""")
 	letter.write( '_______________________________________\n')
 	letter.write('\n\n')
 
@@ -119,7 +131,7 @@ each day and delivered straight to you for your convenience!  View the source at
 		letter.write(line.encode('ascii', 'ignore') + '\n')
 
 	print 'Retrieving CNN'
-	for line in topX('http://rss.cnn.com/rss/cnn_topstories.rss', 2, 'http://cnn.com'):
+	for line in topX('http://rss.cnn.com/rss/cnn_topstories.rss', 5, 'http://cnn.com'):
 		letter.write(line.encode('ascii', 'ignore') + '\n')
 
 	letter.write('\n')
@@ -172,19 +184,26 @@ each day and delivered straight to you for your convenience!  View the source at
 
 	letter.write('\n')
 
-	print 'Retrieving Infograph from Mashable'
-	letter.write('Infograph (Mashable)'+'\n')
-	letter.write('----------------------------------' + '\n')
-	for line in infog('http://mashable.com/category/mashable-infographics/rss/'):
-		letter.write(line.encode('ascii', 'ignore') + '\n')
+	for line in foh('http://www.fohonline.com/newsroom?format=feed&type=rss', 5, 'http://fohonline.com'):
+		letter.write(line.encode('utf8') + '\n')
 
 	letter.write('\n')
+
+	# print 'Retrieving Infograph from Mashable'
+	# letter.write('Infograph (Mashable)'+'\n')
+	# letter.write('----------------------------------' + '\n')
+	# for line in infog('http://mashable.com/category/mashable-infographics/rss/'):
+	# 	letter.write(line.encode('ascii', 'ignore') + '\n')
+
+	# letter.write('\n')
 
 	print 'Retrieving XKCD what-if article'
 	for line in whatIf():
 		letter.write(line.encode('utf8') + '\n')
 
 build()
+
+
 
 
 

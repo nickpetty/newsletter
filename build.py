@@ -22,7 +22,7 @@ mailList = open('emailList.txt', 'r').readlines()
 for email in mailList:
 	recipients.append(email.strip('\n'))
 
-#recipients = ['nick@ihackeverything.com']
+recipients = ['nick@ihackeverything.com']
 
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
